@@ -21,3 +21,4 @@
 | 2 | Device Query, Achieved Bandwidth and Your Own Roofline | [Lab2_6730614023.ipynb](MCS-201%20Hardware%20Acceleration/Lab2_6730614023.ipynb) | — |
 | 3 | Your First CUDA Kernels | [Lab3_6730614023.ipynb](MCS-201%20Hardware%20Acceleration/Lab3_6730614023.ipynb) | [Lab3_6730614023.zip](MCS-201%20Hardware%20Acceleration/Lab3_6730614023.zip) |
 | 4 | Optimising Your Own Kernel | [Lab4_6730614023.ipynb](MCS-201%20Hardware%20Acceleration/Lab4_6730614023.ipynb) | [Lab4_6730614023.zip](MCS-201%20Hardware%20Acceleration/Lab4_6730614023.zip) |
+| 5 | Libraries and GPU Profiling | [Lab5_6730614023.ipynb](MCS-201%20Hardware%20Acceleration/Lab5_6730614023.ipynb) | [Lab5_6730614023.zip](MCS-201%20Hardware%20Acceleration/Lab5_6730614023.zip) |
